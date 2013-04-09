@@ -6240,24 +6240,33 @@ footer {
   margin-bottom: 16px;
   border: 1px solid #eeeeee; }
 
-/* line 60, screen.css.sass */
+/* line 59, screen.css.sass */
+ul#sponsor_list {
+  list-style-type: none;
+  text-align: center; }
+  /* line 62, screen.css.sass */
+  ul#sponsor_list li {
+    display: inline-block;
+    padding: 12px; }
+
+/* line 67, screen.css.sass */
 .meetings .meeting_description h3, .meetings .meeting_description h4, .meetings .meeting_description h5 {
   line-height: 24px; }
-/* line 62, screen.css.sass */
+/* line 69, screen.css.sass */
 .meetings .meeting_description h2 {
   font-size: 24px;
   line-height: 36px; }
-/* line 65, screen.css.sass */
+/* line 72, screen.css.sass */
 .meetings .meeting_description h3 {
   font-size: 18px; }
-/* line 67, screen.css.sass */
+/* line 74, screen.css.sass */
 .meetings .meeting_description h4 {
   font-size: 16px; }
-/* line 69, screen.css.sass */
+/* line 76, screen.css.sass */
 .meetings .meeting_description h5 {
   font-size: 14px; }
 
-/* line 72, screen.css.sass */
+/* line 79, screen.css.sass */
 a {
   color: #37abc8; }
 
